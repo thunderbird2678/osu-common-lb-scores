@@ -1,0 +1,255 @@
+[
+    {
+        "map": "SawanoHiroyuki[nZk]:Gemie - x.U.[Collab Insane]",
+        "reiji maigo": {
+            "position": 20,
+            "rank": "SH",
+            "score": 48626656,
+            "maxCombo": 1683,
+            "accuracy": "98.21",
+            "enabledMods": "HD",
+            "playDate": "2023-10-04 19:11:35",
+            "ppValue": 159.88
+        },
+        "thunderbird2678": {
+            "position": 32,
+            "rank": "S",
+            "score": 46677002,
+            "maxCombo": 1685,
+            "accuracy": "99.48",
+            "enabledMods": "None",
+            "playDate": "2020-02-07 06:12:02",
+            "ppValue": 169.36
+        }
+    },
+    {
+        "map": "Aiko Kayo - Hitomi no Naka no Meikyuu[Insane]",
+        "reiji maigo": {
+            "position": 13,
+            "rank": "A",
+            "score": 10181687,
+            "maxCombo": 691,
+            "accuracy": "93.45",
+            "enabledMods": "DT",
+            "playDate": "2023-08-28 22:03:24",
+            "ppValue": 103.2
+        },
+        "thunderbird2678": {
+            "position": 19,
+            "rank": "A",
+            "score": 6052533,
+            "maxCombo": 462,
+            "accuracy": "98.64",
+            "enabledMods": "DT",
+            "playDate": "2023-08-30 20:13:20",
+            "ppValue": 147.96
+        }
+    },
+    {
+        "map": "Aiko Kayo - Hitomi no Naka no Meikyuu[Pata-Mon's Insane]",
+        "reiji maigo": {
+            "position": 9,
+            "rank": "A",
+            "score": 26570071,
+            "maxCombo": 1247,
+            "accuracy": "95.17",
+            "enabledMods": "HD,DT",
+            "playDate": "2023-08-28 21:55:18",
+            "ppValue": 184.29
+        },
+        "thunderbird2678": {
+            "position": 18,
+            "rank": "A",
+            "score": 7996702,
+            "maxCombo": 492,
+            "accuracy": "94.68",
+            "enabledMods": "HD,DT",
+            "playDate": "2023-08-30 20:07:09",
+            "ppValue": 53.66
+        }
+    },
+    {
+        "map": "Sakakibara Yui - Mecha Koi Ranman*[Cyborg's Hard]",
+        "reiji maigo": {
+            "position": 44,
+            "rank": "SH",
+            "score": 13583005,
+            "maxCombo": 827,
+            "accuracy": "99.31",
+            "enabledMods": "HD,DT",
+            "playDate": "2023-07-01 16:10:45",
+            "ppValue": 262.39
+        },
+        "thunderbird2678": {
+            "position": 7,
+            "rank": "SH",
+            "score": 14346577,
+            "maxCombo": 827,
+            "accuracy": "99.28",
+            "enabledMods": "HD,HR,DT",
+            "playDate": "2022-02-18 00:13:14",
+            "ppValue": 341.3
+        }
+    },
+    {
+        "map": "wowaka - World's End Dancehall (ROCKETMAN Remix)[Hard]",
+        "reiji maigo": {
+            "position": 47,
+            "rank": "SH",
+            "score": 22827234,
+            "maxCombo": 1189,
+            "accuracy": "98.80",
+            "enabledMods": "HD,DT",
+            "playDate": "2023-05-01 06:52:24",
+            "ppValue": 167.58
+        },
+        "thunderbird2678": {
+            "position": 39,
+            "rank": "SH",
+            "score": 22895858,
+            "maxCombo": 1189,
+            "accuracy": "99.48",
+            "enabledMods": "HD,DT",
+            "playDate": "2020-06-07 21:14:36",
+            "ppValue": 189.14
+        }
+    },
+    {
+        "map": "BUTAOTOME feat. Ito Kanako - Lost Word Chronicle[kuyusu's Lunatic]",
+        "reiji maigo": {
+            "position": 28,
+            "rank": "SH",
+            "score": 28526443,
+            "maxCombo": 1239,
+            "accuracy": "98.88",
+            "enabledMods": "HD",
+            "playDate": "2022-08-04 03:24:47",
+            "ppValue": 208.22
+        },
+        "thunderbird2678": {
+            "position": 5,
+            "rank": "SH",
+            "score": 30323777,
+            "maxCombo": 1240,
+            "accuracy": "99.18",
+            "enabledMods": "HD,HR",
+            "playDate": "2021-05-21 22:25:35",
+            "ppValue": 314.8
+        }
+    },
+    {
+        "map": "Est feat. MIYU - SigSig (MiyuMiyu mix)[Hyper]",
+        "reiji maigo": {
+            "position": 39,
+            "rank": "SH",
+            "score": 6571522,
+            "maxCombo": 581,
+            "accuracy": "99.17",
+            "enabledMods": "HD,DT",
+            "playDate": "2021-11-23 16:48:35",
+            "ppValue": 149.88
+        },
+        "thunderbird2678": {
+            "position": 21,
+            "rank": "A",
+            "score": 6602636,
+            "maxCombo": 564,
+            "accuracy": "99.21",
+            "enabledMods": "HD,HR,DT",
+            "playDate": "2021-11-17 01:23:36",
+            "ppValue": 233.06
+        }
+    },
+    {
+        "map": "SHIKI - Lapis[Dash's Hard]",
+        "reiji maigo": {
+            "position": 49,
+            "rank": "A",
+            "score": 3810253,
+            "maxCombo": 454,
+            "accuracy": "95.67",
+            "enabledMods": "HD,DT",
+            "playDate": "2021-11-12 13:59:11",
+            "ppValue": 92.56
+        },
+        "thunderbird2678": {
+            "position": 17,
+            "rank": "SH",
+            "score": 4063183,
+            "maxCombo": 461,
+            "accuracy": "98.89",
+            "enabledMods": "HD,DT",
+            "playDate": "2021-11-11 22:00:40",
+            "ppValue": 140.69
+        }
+    },
+    {
+        "map": "ShinRa-Bansho - Kakumei no bullet[bongo's Insane]",
+        "reiji maigo": {
+            "position": 44,
+            "rank": "S",
+            "score": 28510228,
+            "maxCombo": 1307,
+            "accuracy": "97.93",
+            "enabledMods": "None",
+            "playDate": "2021-07-07 18:04:21",
+            "ppValue": 154.61
+        },
+        "thunderbird2678": {
+            "position": 46,
+            "rank": "A",
+            "score": 28439982,
+            "maxCombo": 1221,
+            "accuracy": "98.25",
+            "enabledMods": "HD,HR",
+            "playDate": "2021-07-06 21:13:38",
+            "ppValue": 236.8
+        }
+    },
+    {
+        "map": "senya - Arehateta Chijou no Uta[Hard]",
+        "reiji maigo": {
+            "position": 33,
+            "rank": "SH",
+            "score": 14845752,
+            "maxCombo": 947,
+            "accuracy": "98.38",
+            "enabledMods": "HD,DT",
+            "playDate": "2020-06-24 14:46:04",
+            "ppValue": 112.84
+        },
+        "thunderbird2678": {
+            "position": 24,
+            "rank": "SH",
+            "score": 15001388,
+            "maxCombo": 947,
+            "accuracy": "99.51",
+            "enabledMods": "HD,DT",
+            "playDate": "2019-06-03 22:04:20",
+            "ppValue": 144.6
+        }
+    },
+    {
+        "map": "Jerico - Do you believe a Dullahan?[Vass-RJ's Lunatic]",
+        "reiji maigo": {
+            "position": 26,
+            "rank": "SH",
+            "score": 31231034,
+            "maxCombo": 1327,
+            "accuracy": "96.26",
+            "enabledMods": "HD",
+            "playDate": "2020-04-18 22:03:57",
+            "ppValue": 155.71
+        },
+        "thunderbird2678": {
+            "position": 2,
+            "rank": "SH",
+            "score": 34536404,
+            "maxCombo": 1330,
+            "accuracy": "99.72",
+            "enabledMods": "HD,HR",
+            "playDate": "2020-09-28 19:40:17",
+            "ppValue": 337.01
+        }
+    }
+]
